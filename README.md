@@ -14,3 +14,6 @@ The biggest streaming services right is Disney plus even though it was released 
 
 
 so using our data we aim to discover both Netflix and Disney's content and how it differs and if there's any similarity
+
+### You can check the live Dashboard throw the following link 
+## https://www.novypro.com/project/netflixdisney-project
